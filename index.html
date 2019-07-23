@@ -17,10 +17,10 @@
     s.src = '//code.jivosite.com/script/widget/'+widget_id; 
     var ss = document.getElementsByTagName('script')[0]; 
     ss.parentNode.insertBefore(s, ss);
+    jivo_api.open();
   }
   if(d.readyState=='complete'){
     l();
-    w.attachEvent('open', l);
   } else  {
     if(w.attachEvent){
       w.attachEvent('onload',l);
