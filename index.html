@@ -20,6 +20,7 @@
   }
   if(d.readyState=='complete'){
     l();
+    jivo_api.open({start: 'call'})
   } else  {
     if(w.attachEvent){
       w.attachEvent('onload',l);
