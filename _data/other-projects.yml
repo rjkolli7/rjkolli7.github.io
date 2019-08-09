@@ -1,0 +1,16 @@
+- name: Maxx N Go
+  url: http://maxxngo.com/
+  description: Car assistance app that helps busy car owners take care of their cars in a simple, convenient and rewarding way. 
+          The app is easy to use, bringing convenience to busy car owners.
+  used:
+    - thing: Android
+    - thing: Java
+    - thing: Kotlin
+    - thing: RxJava
+    - thing: Retrofit
+    - thing: Dagger
+    - thing: MVVM
+    - thing: Firebase
+    - thing: RESTApi
+    - thing: Google Maps API
+    - thing: Google & Facebook Login

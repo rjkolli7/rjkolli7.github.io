@@ -1,0 +1,32 @@
+languages:
+  - item: Java
+  - item: Kotlin
+  - item: Dart
+  - item: HTML
+  - item: CSS
+  - item: Javascript
+  - item: SQL
+  - item: XML
+  - item: JSON
+  - item: GraphQl
+
+frameworks:
+  - item: RxJava
+  - item: RxAndroid
+  - item: RxKotlin
+  - item: Dependency Injection (Dagger 2)
+  - item: MVVM, MVP & MVC
+  - item: Retrofit
+  - item: Junit, Mockito, Robolectric & Instrumentation Test
+
+tools:
+  - item: Git, Github, Gitlab & Bitbucket
+  - item: Postman
+  - item: Firebase
+  - item: AWS
+
+
+design:
+  - item: Adobe Photoshop
+  - item: Adobe XD
+  - item: UI/UX wireframe designs for mobile apps

@@ -1,0 +1,28 @@
+{
+  "name": "rjkolli7.github.io",
+  "version": "0.0.0",
+  "description": "An innovative Mobile Application Developer maanging all aspects of application development from analysis to release.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rjkolli7/rjkolli7.github.io"
+  },
+  "homepage": "https://github.com/rjkolli7/rjkolli7.github.io",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp serve",
+    "build": "gulp build"
+  },
+  "author": "Rajes Kolli",
+  "license": "ISC",
+  "devDependencies": {
+    "@nuscout/eslint-config": "^0.2.1",
+    "browser-sync": "^2.26.7",
+    "gulp": "3.9.1",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean-css": "3.10.0",
+    "gulp-eslint": "6.0.0",
+    "gulp-imagemin": "6.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "3.0.2"
+  }
+}
