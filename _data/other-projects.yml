@@ -1,5 +1,6 @@
 - name: Maxx N Go
   url: http://maxxngo.com/
+  playstore_url: https://play.google.com/store/apps/details?id=com.maxxngo.mobile.customer
   description: Car assistance app that helps busy car owners take care of their cars in a simple, convenient and rewarding way. 
           The app is easy to use, bringing convenience to busy car owners.
   used:
@@ -14,3 +15,6 @@
     - thing: RESTApi
     - thing: Google Maps API
     - thing: Google & Facebook Login
+
+- name: KMF
+  url: 
