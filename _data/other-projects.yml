@@ -17,7 +17,7 @@
     - thing: Google & Facebook Login
 
 - name: KMF
-  url: 
+  url: https://play.google.com/store/apps/details?id=com.knb.KMFmobile/
   playstore_url: https://play.google.com/store/apps/details?id=com.knb.KMFmobile
   description: Mobile application for Khazanah Megatrends Forum 2018
   used:
@@ -32,9 +32,10 @@
     - thing: GraphQl
 
 - name: Hello Mind
-  url: 
+  url: https://www.hellomind.com
   playstore_url: https://play.google.com/store/apps/details?id=com.hellomind
-  description: Hypnosis is a human condition involving focused attention, reduced peripheral awareness, and an enhanced capacity to respond to suggestion. There are competing theories explaining hypnosis and related phenomena. HelloMind is created to help you make a change and feel stronger.
+  description: Hypnosis is a human condition involving focused attention, reduced peripheral awareness, and an enhanced capacity to respond to suggestion. 
+          There are competing theories explaining hypnosis and related phenomena. HelloMind is created to help you make a change and feel stronger.
   used:
     - thing: Android
     - thing: Java
@@ -50,10 +51,10 @@
     - thing: Animations
 
 - name: VPN Area (Best VPN for Android)
-  url: 
+  url: https://play.google.com/store/apps/details?id=com.vpnarea
   playstore_url: https://play.google.com/store/apps/details?id=com.vpnarea
   description: Unblock ALL your favourite web sites and bypass any firewalls and Internet restrictions. 
-VPNArea is engineered to help you will change your Internet location to any of our servers in 65+ countries.
+          VPNArea is engineered to help you will change your Internet location to any of our servers in 65+ countries.
   used:
     - thing: Android
     - thing: Java
