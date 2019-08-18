@@ -18,3 +18,48 @@
 
 - name: KMF
   url: 
+  playstore_url: https://play.google.com/store/apps/details?id=com.knb.KMFmobile
+  description: Mobile application for Khazanah Megatrends Forum 2018
+  used:
+    - thing: Android
+    - thing: Kotlin
+    - thing: RxJava
+    - thing: Retrofit
+    - thing: Dagger2
+    - thing: MVVM
+    - thing: Firebase
+    - thing: RESTApi
+    - thing: GraphQl
+
+- name: Hello Mind
+  url: 
+  playstore_url: https://play.google.com/store/apps/details?id=com.hellomind
+  description: Hypnosis is a human condition involving focused attention, reduced peripheral awareness, and an enhanced capacity to respond to suggestion. There are competing theories explaining hypnosis and related phenomena. HelloMind is created to help you make a change and feel stronger.
+  used:
+    - thing: Android
+    - thing: Java
+    - thing: RxJava
+    - thing: Retrofit
+    - thing: MVP
+    - thing: Firebase
+    - thing: RESTApi
+    - thing: Appsflyer
+    - thing: UbserSDK
+    - thing: Media Player
+    - thing: Exo Player
+    - thing: Animations
+
+- name: VPN Area (Best VPN for Android)
+  url: 
+  playstore_url: https://play.google.com/store/apps/details?id=com.vpnarea
+  description: Unblock ALL your favourite web sites and bypass any firewalls and Internet restrictions. 
+VPNArea is engineered to help you will change your Internet location to any of our servers in 65+ countries.
+  used:
+    - thing: Android
+    - thing: Java
+    - thing: Volley
+    - thing: MVP
+    - thing: Firebase
+    - thing: RESTApi
+    - thing: Open VPN
+    - thing: NDK
