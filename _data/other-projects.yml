@@ -1,8 +1,7 @@
 - name: Loud Speaker
   url: http://www.loudspeakerktv.my/
   playstore_url: https://play.google.com/store/apps/details?id=com.appandus.loudspeaker
-  description: This mobile application is a platform for all the Loud Speaker Family Karaoke's fanatic. 
-            By using Loud Speaker, customers can check top deals & promotions. Book rooms in online. There is a e-Wallet & online payment by MOLPay.
+  description: This mobile application is a platform for all the Loud Speaker Family Karaoke's fanatic. By using Loud Speaker, customers can check top deals & promotions. Book rooms in online. There is a e-Wallet & online payment by MOLPay.
   used:
     - thing: Android
     - thing: Java
@@ -15,8 +14,7 @@
 - name: Loud Speaker Staff
   url: http://www.loudspeakerktv.my/
   playstore_url: ""
-  description: This mobile application is a platform for all the Loud Speaker Staff. This application released in Sunmi Terminal. 
-          Used Sunmi SDK to integrated for Terminal By using this application, Loud Spkeaer Outlet Staff can check-in the customers. Reload customer's e-Wallet. Upgrade customer's membership.
+  description: This mobile application is a platform for all the Loud Speaker Staff. This application released in Sunmi Terminal. Used Sunmi SDK to integrated for Terminal By using this application, Loud Spkeaer Outlet Staff can check-in the customers. Reload customer's e-Wallet. Upgrade customer's membership.
   used:
     - thing: Android
     - thing: Java
@@ -27,8 +25,7 @@
 - name: Maxx N Go
   url: http://maxxngo.com/
   playstore_url: https://play.google.com/store/apps/details?id=com.maxxngo.mobile.customer
-  description: Car assistance app that helps busy car owners take care of their cars in a simple, convenient and rewarding way. 
-          The app is easy to use, bringing convenience to busy car owners.
+  description: Car assistance app that helps busy car owners take care of their cars in a simple, convenient and rewarding way. The app is easy to use, bringing convenience to busy car owners.
   used:
     - thing: Android
     - thing: Java
@@ -60,8 +57,7 @@
 - name: Hello Mind
   url: https://www.hellomind.com
   playstore_url: https://play.google.com/store/apps/details?id=com.hellomind
-  description: Hypnosis is a human condition involving focused attention, reduced peripheral awareness, and an enhanced capacity to respond to suggestion. 
-          There are competing theories explaining hypnosis and related phenomena. HelloMind is created to help you make a change and feel stronger.
+  description: Hypnosis is a human condition involving focused attention, reduced peripheral awareness, and an enhanced capacity to respond to suggestion. There are competing theories explaining hypnosis and related phenomena. HelloMind is created to help you make a change and feel stronger.
   used:
     - thing: Android
     - thing: Java
@@ -79,8 +75,7 @@
 - name: Golden Paddy
   url: https://www.impactterra.com/golden-paddy
   playstore_url: https://play.google.com/store/apps/details?id=com.impactterra.goldenpaddy.release
-  description: Golden Paddy application is helping Myanmar farmers to know Weather Reports, Crop Prices in Market.
-   Also notifying farmers regarding local news, water risks, pest risk and many more. 
+  description: Golden Paddy application is helping Myanmar farmers to know Weather Reports, Crop Prices in Market.Also notifying farmers regarding local news, water risks, pest risk and many more. 
   used:
     - thing: Android
     - thing: Java
@@ -92,8 +87,7 @@
 - name: VPN Area (Best VPN for Android)
   url: https://play.google.com/store/apps/details?id=com.vpnarea
   playstore_url: https://play.google.com/store/apps/details?id=com.vpnarea
-  description: Unblock ALL your favourite web sites and bypass any firewalls and Internet restrictions. 
-          VPNArea is engineered to help you will change your Internet location to any of our servers in 65+ countries.
+  description: Unblock ALL your favourite web sites and bypass any firewalls and Internet restrictions. VPNArea is engineered to help you will change your Internet location to any of our servers in 65+ countries.
   used:
     - thing: Android
     - thing: Java
