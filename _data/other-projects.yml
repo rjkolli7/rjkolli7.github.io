@@ -1,3 +1,31 @@
+- name: Loud Speaker
+  url: http://www.loudspeakerktv.my/
+  playstore_url: https://play.google.com/store/apps/details?id=com.appandus.loudspeaker
+  description: This mobile application is a platform for all the Loud Speaker Family Karaoke's fanatic. 
+
+  By using Loud Speaker, customers can check top deals & promotions. Book rooms in online. There is a e-Wallet & online payment by MOLPay.
+  used:
+    - thing: Android
+    - thing: Java
+    - thing: Payment Gateway (MOLPay)
+    - thing: Firebase
+    - thing: RESTApi
+    - thing: Google Maps API
+    - thing: Facebook Login
+
+- name: Loud Speaker Staff
+  url: http://www.loudspeakerktv.my/
+  playstore_url: 
+  description: This mobile application is a platform for all the Loud Speaker Staff. This application released in Sunmi Terminal. Used Sunmi SDK to integrated for Terminal
+  
+  By using this application, Loud Spkeaer Outlet Staff can check-in the customers. Reload customer's e-Wallet. Upgrade customer's membership.
+  used:
+    - thing: Android
+    - thing: Java
+    - thing: Payment Gateway (MOLPay)
+    - thing: Firebase
+    - thing: RESTApi
+
 - name: Maxx N Go
   url: http://maxxngo.com/
   playstore_url: https://play.google.com/store/apps/details?id=com.maxxngo.mobile.customer
@@ -17,9 +45,9 @@
     - thing: Google & Facebook Login
 
 - name: KMF
-  url: https://play.google.com/store/apps/details?id=com.knb.KMFmobile/
+  url: https://play.google.com/store/apps/details?id=com.knb.KMFmobile
   playstore_url: https://play.google.com/store/apps/details?id=com.knb.KMFmobile
-  description: Mobile application for Khazanah Megatrends Forum 2018
+  description: Mobile application for Khazanah Megatrends Forum of 2018 & 2019 
   used:
     - thing: Android
     - thing: Kotlin
@@ -49,6 +77,18 @@
     - thing: Media Player
     - thing: Exo Player
     - thing: Animations
+
+- name: Golden Paddy
+  url: https://www.impactterra.com/golden-paddy
+  playstore_url: https://play.google.com/store/apps/details?id=com.impactterra.goldenpaddy.release
+  description: Golden Paddy application is helping Myanmar farmers to know Weather Reports, Crop Prices in Market. Also notifying farmers regarding local news, water risks, pest risk and many more. 
+  used:
+    - thing: Android
+    - thing: Java
+    - thing: Retrofit
+    - thing: MVP
+    - thing: Firebase
+    - thing: RESTApi
 
 - name: VPN Area (Best VPN for Android)
   url: https://play.google.com/store/apps/details?id=com.vpnarea
